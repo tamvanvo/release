@@ -4,7 +4,7 @@
   {
     "launch": [
       {
-        "version": "1.0.1",
+        "version": "1.0.2",
         "on_demand": true,
         "release_date": "",
         "release_note_url": "https://www.qasymphony.com/software-testing-tools/qtest-launch/test-automation-management/"
