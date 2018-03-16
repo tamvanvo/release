@@ -4,12 +4,6 @@
   {
     "launch": [
       {
-        "version": "1.0.0",
-        "on_demand": true,
-        "release_date": "",
-        "release_note_url": ""
-      },
-      {
         "version": "1.0.1",
         "on_demand": true,
         "release_date": "",
@@ -18,7 +12,7 @@
     ],
     "automation_host": [
       {
-        "version": "2.0.3",
+        "version": "2.0.4",
         "release_date": "",
         "release_note_url": "https://support.qasymphony.com/hc/en-us/articles/115005284026-qTest-Automation-Agent-Host-Installation-Guide",
         "download_url": "",
@@ -31,7 +25,7 @@
         "release_note_url": "",
         "download_url": "",
         "compatible_versions": [],
-        "compatible_launch_versions": []
+        "compatible_launch_versions": ["1.0.0"]
       }
     ]
   }
